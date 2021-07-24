@@ -1,1 +1,2 @@
 This is s1
+This is comparison lecture
